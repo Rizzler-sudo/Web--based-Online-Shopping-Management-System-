@@ -29,5 +29,5 @@ This project is a responsive web-based inventory and online shopping management 
 - Experience working in a team-based development environment  
 - Better knowledge of the project development lifecycle  
 
-## Author
-Danish Ansari
+## Authors
+Danish Ansari | Prajesh Sama Shrestha | Sayara Shrestha | Shreya Lama
